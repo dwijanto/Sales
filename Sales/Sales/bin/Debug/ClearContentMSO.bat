@@ -1,0 +1,1 @@
+del /s /f /q  %localappdata%\microsoft\windows\inetcache\content.mso\*.*

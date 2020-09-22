@@ -1,0 +1,34 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="oExCon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ODBC;DSN=PostgreSQLhon03nt;</Value>
+    </Setting>
+    <Setting Name="oExConLocal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ODBC;DSN=PostgreSQLLocal;</Value>
+    </Setting>
+    <Setting Name="oExConLive" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ODBC;DSN=PostgreSQLhon03nt;</Value>
+    </Setting>
+    <Setting Name="conn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">host=hon14nt;port=5432;database=LogisticDb</Value>
+    </Setting>
+    <Setting Name="conn2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">host=localhost;port=5432;database=dblivetest20120610</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">host=localhost;port=5432;database=LogisticDb20150120</Value>
+    </Setting>
+    <Setting Name="oExConLive1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ODBC;DSN=PostgreSQLhon14nt;</Value>
+    </Setting>
+    <Setting Name="Connectionstring1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;host=hon14nt;port=5432;database=LogisticDb&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">host=hon14nt;port=5432;database=LogisticDb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
